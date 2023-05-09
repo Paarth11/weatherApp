@@ -6,7 +6,7 @@
 body {
   margin: 0;
   /* background-color: hsl(200, 100%, 85%);   */
-  background-color: hsl(50, 18%, 66%);  
+  background-color: hsl(50, 22%, 67%);  
   /* color: hsl(200, 100%, 10%); */
    color: hsl(200, 100%, 10%); 
   font-family: sans-serif;
@@ -79,6 +79,15 @@ body {
   flex-direction: column;
   align-items: center;
   border: 1px solid hsl(200, 100%, 10%);
+  border-radius: 0.8rem;
+  padding: 0.25rem;
+}
+.day-card:hover{
+  display: flex;
+  background-color: rgb(88, 124, 150); 
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid hsl(0, 98%, 19%);
   border-radius: 0.8rem;
   padding: 0.25rem;
 }
