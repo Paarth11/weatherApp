@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather app that allows users to search for weather conditions for a specific location. The app is built using JavaScript and Vite.
+This is a simple weather app that displays weather conditions for user location. The app is built using JavaScript and Vite.
 
 ## Installation
 
